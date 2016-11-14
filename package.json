@@ -35,7 +35,7 @@
     "koa-pino-logger": "^1.0.2",
     "koa-response-time": "^1.0.2",
     "koa-router": "^5.4.0",
-    "lodash": "^4.15.0",
+    "lodash": "^4.17.0",
     "pino": "^2.7.2",
     "validate-npm-package-name": "^2.2.2",
     "yargs": "^6.0.0"
